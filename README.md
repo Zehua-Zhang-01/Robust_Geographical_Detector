@@ -1,7 +1,7 @@
 # Robust_Geographical_Detector
 Code and explanations for the statistical method - 'Robust Geographical Detector' (with Gold Open Access) https://doi.org/10.1016/j.jag.2022.102782
 
-!(A2 - Robust geographical detector.jpg)
+![Alt text](A2 - Robust geographical detector.jpg)
 
 The article 'Robust Geographical Detector' released in 2022 was my first research publication. This is an improved statistical analysis techniques in assisting (1) find statistical associations between variables, and (2) show some spatial patterns / features through statistical groups. The method was built based on 'A measure of spatial stratified heterogeneity' (https://doi.org/10.1016/j.ecolind.2016.02.052)
 
