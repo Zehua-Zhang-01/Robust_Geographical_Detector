@@ -11,6 +11,6 @@ Q: How to use it?
 
 A: Please find the .ipynb file. After running the code, you will get a new column in a new file telling results generated from the change point detection. If you wanna see the 'q-value', please use the GD package in R (https://cran.r-project.org/web/packages/GD/GD.pdf) in your following steps. Please be noted that we now have a categorial type of X-variable already, and there is no need to classify. 
 
-Ackowledgement: I was inspired by the release of 'ruptures' Python (https://centre-borelli.github.io/ruptures-docs/) and the review article 'Selective review of offline change point detection methods' (https://doi.org/10.1016/j.sigpro.2019.107299)
+Ackowledgement: I was inspired by the release of 'ruptures' Python (https://centre-borelli.github.io/ruptures-docs/) and the review article 'Selective review of offline change point detection methods' (https://doi.org/10.1016/j.sigpro.2019.107299) 🎼🎵🎶
 
-Please let me know if there are issues. Thanks for your support. 
+Please let me know if there are issues. Thanks for your support. ☀
